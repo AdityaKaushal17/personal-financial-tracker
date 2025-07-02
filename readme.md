@@ -45,12 +45,3 @@ Event delegation -- Remove transactions efficiently
 
 ---
 
-## Project Structure
-
-personal-finance-tracker/
-│
-├── index.html #App layout and structure
-├── styles.css #App styling + responsive design
-├── app.js #App logic and interactivity
-
-
